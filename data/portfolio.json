@@ -1,7 +1,7 @@
 {
   "name": "Rahul Sidhardha Chilukuri",
   "role": "Aspiring Data Scientist | AWS Certified",
-  "description": "Passionate about Machine Learning, Cloud, and Data Science. Skilled in Python, AWS, SQL, and TensorFlow.",
+  "description": "Passionate about Machine Learning, Cloud, and Data Science.",
   "skills": [
     "Python",
     "AWS",
@@ -24,7 +24,7 @@
     }
   ],
   "resume": "https://drive.google.com/your-resume-link",
-  "github": "https://github.com/https://github.com/Rahul813609",
-  "linkedin": "www.linkedin.com/in/rahulsidchilukuri",
-  "email": "rahulsiddhardha777@gmail.com"
+  "github": "https://github.com/yourgithubusername",
+  "linkedin": "https://linkedin.com/in/yourlinkedinprofile",
+  "email": "youremail@example.com"
 }
